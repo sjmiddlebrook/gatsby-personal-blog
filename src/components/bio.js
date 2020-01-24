@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> and focusing on software development topics. You can find this blog and more on <a target="_blank" href={`https://github.com/${social.github}`}>Github</a>
+        Written by <strong>{author}</strong>. You can find this blog and more on <a target="_blank" href={`https://github.com/${social.github}`}>Github</a>.
       </p>
     </div>
   )
